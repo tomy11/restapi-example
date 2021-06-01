@@ -3,8 +3,8 @@ const knex = require('knex')({
     connection: {
         host: '127.0.0.1',
         user: 'root',
-        password: '',
-        database: 'restapi-example'
+        password: '123456',
+        database: 'partydb'
     }
 });
 
